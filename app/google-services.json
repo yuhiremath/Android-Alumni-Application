@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "402568208562",
+    "firebase_url": "https://revaalumni-3e332.firebaseio.com",
+    "project_id": "revaalumni-3e332",
+    "storage_bucket": "revaalumni-3e332.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402568208562:android:51a05e4312f737cd",
+        "android_client_info": {
+          "package_name": "reva.com.revaalumni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402568208562-4drcvgh218eh0sj2j3rr4ectqp26kt8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTPmAPZ4LaI8HgIxTWztBzJWLIaFfw_7c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

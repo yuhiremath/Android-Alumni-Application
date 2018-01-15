@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Reva Alumni</string>
+    <string name="about_desc">If you are a graduate of REVA University or REVA Group of Educational Institutions, you are part of our global alumni community – Welcome! We are delighted to have you as part of our strong network of former REVA students. We encourage you to stay in touch with us, so that we can provide you with support and benefits for life. That may be through providing you with career support, helping you reconnect with old friends, access to a wide network of fellow alumni and a range of exciting events.</string>
+    <string name="about_keepintouch">If you are a graduate of REVA University or REVA Group of Educational Institutions , you are part of our global alumni community. We encourage you to stay in touch with us, so that we can provide you with support and benefits for life.</string>
+    <string name="refer_content">Use the Email option below to Refer any JOB/INTERNSHIP/PROJECT or any other Oppurtinities available in your Company.</string>
+    <string name="refer_note">NOTE: Please provide Information about the DOMAIN and ELIGIBLITY CRITERIA for the OFFER.</string>
+    <string name="registered">Registerstatus</string>
+    <string name="firebaseid">FireId</string>
+    <string name="defaultregvalue">false</string>
+    <string-array name="Date_box">
+        <item>21/8</item>
+        <item>22/8</item>
+        <item>23/8</item>
+        <item>24/8</item>
+        <item>25/8</item>
+        <item>26/8</item>
+    </string-array>
+    <string-array name="Title">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+    </string-array>
+    <string-array name="Description">
+        <item>sgsd</item>
+        <item>sdff</item>
+        <item>asde</item>
+        <item>fhfg</item>
+        <item>ertg</item>
+        <item>tjgh</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
